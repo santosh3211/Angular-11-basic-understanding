@@ -1,2 +1,2 @@
-# Angular-11-basis-understanding
+# Angular-11-basic-understanding
 Angular learning
